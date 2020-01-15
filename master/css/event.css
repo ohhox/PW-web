@@ -1,0 +1,12 @@
+.onechoing table thead th{
+/*    background: #999999;
+    
+    color: #ffffff;*/
+    text-align: center;
+}
+.onechoing{
+    font-size: 1.5rem;
+}
+.labsel{
+    margin-top: 5px;
+}

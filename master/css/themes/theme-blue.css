@@ -1,0 +1,129 @@
+﻿.theme-blue .navbar {
+    background-color: #7f19b3; 
+    background-color: #4e0367;
+    background: url(../../../img/hero-slide-gride-blue.jpg) center;
+}
+
+.theme-blue .navbar-brand {
+    color: #fff; }
+.theme-blue .navbar-brand:hover {
+    color: #fff; }
+.theme-blue .navbar-brand:active {
+    color: #fff; }
+.theme-blue .navbar-brand:focus {
+    color: #fff; }
+
+.theme-blue .nav > li > a {
+    color: #fff; }
+.theme-blue .nav > li > a:hover {
+    background-color: transparent; }
+.theme-blue .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme-blue .nav .open > a {
+    background-color: transparent; }
+.theme-blue .nav .open > a:hover {
+    background-color: transparent; }
+.theme-blue .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme-blue .bars {
+    color: #fff; }
+
+.theme-blue .sidebar .menu .list li.active {
+    background-color: transparent; }
+.theme-blue .sidebar .menu .list li.active > :first-child i, .theme-blue .sidebar .menu .list li.active > :first-child span {
+    color: #ffb300; }
+
+.theme-blue .sidebar .menu .list .toggled {
+    background-color: transparent; }
+
+.theme-blue .sidebar .menu .list .ml-menu {
+    background-color: transparent; }
+
+.theme-blue .sidebar .legal {
+    background-color: #1a0931; 
+    color: #cccccc;
+}
+.sidebar .legal{
+        border: none;
+}
+.sidebar .legal .copyright{
+    color: #cccccc;
+}
+.theme-blue .sidebar .legal .copyright a {
+    color: #ffffff !important; 
+}
+.sidebar .menu { 
+    background: #4C3469;
+}
+
+.sidebar .menu .list a span ,.sidebar .menu .list a { 
+    color: #fff; 
+}
+.sidebar .menu .list .header {
+    background: #ffb300;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 8px 16px;
+    color: white;
+}
+#Compaints{
+    padding: 0px; 
+    color: #000000;
+}
+.ListComplaint{
+    padding: 15px;
+    list-style: none;
+    border-bottom: 1px #efefef solid; 
+    cursor: pointer;
+}
+.ListComplaint:hover{
+    background: #fdf9ff;
+}
+.topcompaints,#ComDetailTOP{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+   
+    
+}
+#ComDetailTOP{
+    margin-bottom: 20px;
+     border-bottom: 1px #f0f0f0 solid;
+}
+.comname{
+    font-weight: 400; 
+}
+.comtime,#ComplaintsEmail{
+    color: #cccccc;
+}
+.comSub .Sub{
+    font-weight: 700;
+}
+.comSub .comMsg{
+    font-size: 0.9em;
+    color: #a7a7a7;
+}
+.dotStatus{
+    width: 10px;
+    height: 10px;
+    background: #14ce02;
+    border-radius: 50%;
+    display: inline-block; 
+}
+#ComDetail{
+    padding: 20px;
+    font-size: 16px;  
+    border-left:  1px solid #f0f0f0;
+    margin-left: -1px;
+}
+#Complaintsname{
+    font-size: 18px;
+}
+#ComplaintsMsg{
+    color: #1a0931;
+    padding-top: 10px
+}
+
